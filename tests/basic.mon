@@ -1,0 +1,4 @@
+# Het programma is bij het opstarten ingetypt. Start het en laat het vier seconden lopen.
+f 100
+t RUN\n
+f 200

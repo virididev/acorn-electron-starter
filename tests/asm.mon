@@ -1,0 +1,5 @@
+# Laad build/spel.bin op &0E00, start het en laat het twee seconden lopen.
+f 100
+l 0E00 build/spel.bin
+t CALL &E00\n
+f 100
