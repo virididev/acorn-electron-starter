@@ -35,7 +35,12 @@ Staat de emulator op een andere plek, zet dan het pad in
 
 ## Aan de slag
 
-Kies eerst in welke taal je wilt werken. Beide beginnen met hetzelfde kleine
+```sh
+git clone https://github.com/virididev/acorn-electron-starter.git mijn-spel
+cd mijn-spel
+```
+
+Kies dan in welke taal je wilt werken. Beide beginnen met hetzelfde kleine
 programma: de Electron in MODE 2 en een gekleurde groet.
 
 ```sh
