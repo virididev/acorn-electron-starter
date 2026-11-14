@@ -59,7 +59,8 @@ door de gekozen taal.
 
 - `src/spel.bas` bevat het programma; BASIC assembleert de inline assembler bij RUN
   (twee passes: `FOR PASS%=0 TO 2 STEP 2` met `[OPT PASS%`)
-- Schrijf alles in hoofdletters: de emulator typt kleine letters als hoofdletters
+- Schrijf alles in hoofdletters: BBC BASIC II kent alleen sleutelwoorden in hoofdletters,
+  en de emulator typt het programma letterlijk over
 - Regelnummers in stappen van 10
 - `tests/basic.mon` start het ingetypte programma met `RUN`
 
